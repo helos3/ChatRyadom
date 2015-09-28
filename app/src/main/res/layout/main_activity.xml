@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background" >
+
+    <ImageView
+        android:id="@+id/header"
+        android:src="@drawable/header_logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:contentDescription="@string/app_name" />
+
+    <EditText
+        android:id="@+id/username"
+        android:inputType="text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:hint="@string/username_hint"
+        android:textColorHint="@color/main"
+        android:textColor="@color/main" />
+
+    <Button
+        android:id="@+id/sign"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:text="@string/sign"
+        android:textColor="@color/main"
+        android:background="@drawable/button_view"/>
+
+</LinearLayout>

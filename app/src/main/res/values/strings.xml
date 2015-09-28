@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ЧатРядом</string>
+    <string name="username_hint">Как Вас зовут?</string>
+    <string name="username_warning">Минимум 4 символа</string>
+    <string name="sign">Войти</string>
+    <string name="send">Чат</string>
+    <string name="count">Рядом</string>
+    <string name="welcome_title">Добро пожаловать в ЧатРядом</string>
+    <string name="welcome">Общайтесь с людьми которые находятся рядом с Вами.\nЧтобы оправить сообщение нажмите \"Чат\", чтобы посмотреть сколько участников нажмите \"Рядом\".\nКликните на сообщении пользователя, если хотите отправить ему приватное сообщение.\nЭто альфа версия, поэтому глюки неизбежны. Fun.</string>
+    <string name="new_chat_title">, Вы вошли в новый ЧатРядом</string>
+    <string name="not_found_location">Не удалось определить Ваше местоположение</string>
+    <string name="not_internet_connection">Отсутствует интернет-соединение</string>
+    <string name="reconnect">Переподключиться?</string>
+</resources>

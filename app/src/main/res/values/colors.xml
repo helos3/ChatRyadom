@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main">#efefef</color>
+    <color name="border">#0f0f0f</color>
+    <color name="text">#000</color>
+    <color name="message">#dddbdb</color>
+    <color name="message_border">#cecece</color>
+    <color name="message_private">#e1bee7</color>
+    <color name="message_private_border">#ce93d8</color>
+    <color name="message_service">#c8e6c9</color>
+    <color name="mesage_service_border">#a5d6a7</color>
+    <color name="background">#f44336</color>
+    <color name="button">#e53935</color>
+    <color name="button_border">#d32f2f</color>
+</resources>
